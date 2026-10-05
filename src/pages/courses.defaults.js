@@ -30,14 +30,9 @@ module.exports = {
         description4:
           'Reinforce learning through industry-relevant assignments, giving participants firsthand experience in applying concepts having practical assignments.',
         description5: 'Engage in activities designed to build and adapt approaches to real-world scenarios',
-        image: '/assets/proj1.jpg',
+        image: '/assets/workPage/proj1.jpeg',
         imageAlt: 'Smart Irrigation System - Bridge',
-        meta: [
-          { label: 'Date', value: '23rd of Aug' },
-          { label: 'TimeLine', value: '3 Month' },
-          { label: 'Location', value: 'Cairo Egypt' },
-          { label: 'Budget', value: 'USD 12,000' },
-        ],
+        
       },
     ],
   },
