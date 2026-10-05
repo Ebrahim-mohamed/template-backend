@@ -24,7 +24,7 @@ module.exports = {
         title: 'Business Development Courses',
         description:
           'Practical, industry-focused courses designed to build essential business skills and provide participants with the knowledge and tools they need to succeed.',
-        image: '/assets/serv3.png',
+        image: '/assets/servicesPage/serv3.png',
         imageAlt: 'Mechanical Design',
         imageLeft: false,
         highlighted: false,

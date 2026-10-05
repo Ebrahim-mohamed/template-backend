@@ -54,18 +54,18 @@ module.exports = {
     mainService: {
       head: 'Business Development Courses',
       pra: 'Practical, industry-focused courses designed to build essential business skills and provide participants with the knowledge and tools they need to succeed.',
-      icon: '/assets/serv3.png',
+      icon: '/assets/servicesPage/serv3.png',
     },
     items: [
       {
         head: 'Business Consulting',
         pra: 'Helping businesses identify opportunities, overcome challenges, and develop practical strategies for sustainable growth and improved performance.',
-        icon: '/assets/serv1.png',
+        icon: '/assets/servicesPage/serv1.jpg',
       },
       {
         head: 'Corporate Training',
         pra: 'Customized training programs designed for companies to strengthen their teams’ capabilities, improve performance, and develop essential business and leadership skills.',
-        icon: '/assets/serv4.png',
+        icon: '/assets/servicesPage/serv4.jpg',
       },
     ],
   },
